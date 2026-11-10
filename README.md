@@ -2,7 +2,7 @@
 
 **AquaSentinel-Core** is an industrial-grade B2B/B2G Cyber-Physical Aquifer Intelligence platform. It upgrades reactive groundwater monitoring into an autonomous, decentralized Swarm Grid—engineered to halt **drawdown-induced Arsenic ($As^{3+}$) contamination**, prevent **regional aquifer collapse**, and enforce **cryptographic zero-trust regulatory compliance**.
 
-![AquaDrishti-Core v3.0 Command Center](c:\Users\LENOVO\Pictures\Screenshots\Screenshot 2026-11-11 025240.png)
+![AquaDrishti-Core v3.0 Command Center](assets/dashboard-view.png)
 
 ## 🔥 The 4 Advanced Engineering Pillars
 
@@ -20,7 +20,7 @@ Prevents regional aquifer collapse in dense industrial clusters (the "Tragedy of
 *   **Corporate Data Paranoia Solved:** Uses **Federated Learning (`FedAvg`)** with Laplacian Differential Privacy ($\epsilon = 1.2$) to train the regional aquifer model locally on edge gateways, paired with **Zero-Knowledge (ZK) Range Commitments** that prove NOC compliance without exposing raw hourly manufacturing curves.
 *   **Macro-Copilot:** Fuses Open-Meteo satellite soil-moisture/precipitation data with aquitard compressibility to flag **Land Subsidence ($\text{mm/yr}$)** and verify Rainwater Harvesting (RWH). Integrates **Groq Llama-3.3-70B** to auto-generate statutory CGWA BhuNeer & WBPCB Form-V legal briefs.
 
-![Closed-Loop VFD Command Bus and Cryptographic SHA-256 Ledger](c:\Users\LENOVO\Pictures\Screenshots\Screenshot 2026-11-11 044124.png)
+![Closed-Loop VFD Command Bus and Cryptographic SHA-256 Ledger](assets/vfd-hardware-view.png)
 
 ## 🛠️ Quick Start (Local & GitHub Codespaces)
 
