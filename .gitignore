@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# AquaSentinel Runtime Databases & Edge Spools
+*.db
+*.db-shm
+*.db-wal
+*.jsonl

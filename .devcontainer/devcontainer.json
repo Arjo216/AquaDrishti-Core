@@ -1,9 +1,6 @@
 {
     "name": "AquaDrishti-Core Production Workspace",
-    "image": "mcr.microsoft.com/devcontainers/python:1-3.11-bullseye",
-    "features": {
-        "ghcr.io/devcontainers/features/docker-in-docker:2": {}
-    },
+    "image": "mcr.microsoft.com/devcontainers/python:1-3.11-bookworm",
     "customizations": {
         "vscode": {
             "extensions": [
@@ -13,7 +10,7 @@
             ]
         }
     },
-    "forwardPorts": [8000, 8501, 5432],
+    "forwardPorts": [8000, 8501],
     "portsAttributes": {
         "8000": {
             "label": "AquaSentinel FastAPI Engine",
