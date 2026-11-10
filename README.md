@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ AquaSentinel-Core v3.0
+# 🛡️ AquaDrishti-Core v3.0
 ### Autonomous Hydro-Geochemical Digital Twin & CGWA BhuNeer Compliance Grid
 
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -25,8 +25,6 @@
 # 🛡️ AquaDrishti-Core v3.0: 4D PI-GNN, Swarm ACO & Zero-Trust Aquifer Grid
 
 **AquaDrishti-Core** is an industrial-grade B2B/B2G Cyber-Physical Aquifer Intelligence platform. It upgrades reactive groundwater monitoring into an autonomous, decentralized Swarm Grid—engineered to halt **drawdown-induced Arsenic ($As^{3+}$) contamination**, prevent **regional aquifer collapse**, and enforce **cryptographic zero-trust regulatory compliance**.
-
-![AquaDrishti-Core v3.0 Command Center](assets/dashboard-view.png)
 
 <p align="center">
   <img src="assets/dashboard-view.png" alt="AquaSentinel-Core v3.0 Command Center" width="100%">
