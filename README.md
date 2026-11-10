@@ -2,7 +2,7 @@
 
 **AquaSentinel-Core** is an industrial-grade B2B/B2G Cyber-Physical Aquifer Intelligence platform. It upgrades reactive groundwater monitoring into an autonomous, decentralized Swarm Grid—engineered to halt **drawdown-induced Arsenic ($As^{3+}$) contamination**, prevent **regional aquifer collapse**, and enforce **cryptographic zero-trust regulatory compliance**.
 
-![AquaDrishti-Core v3.0 Command Center](image_599e00.png)
+![AquaDrishti-Core v3.0 Command Center](c:\Users\LENOVO\Pictures\Screenshots\Screenshot 2026-11-11 025240.png)
 
 ## 🔥 The 4 Advanced Engineering Pillars
 
